@@ -141,7 +141,7 @@ This project includes a script for generating new components. You can run this s
 To create a new TypeScript component named 'MyComponent':
 
 ```bash
-pnpm run new-component MyComponent
+pnpm run nc MyComponent
 ```
 
 This will create a folder name MyComponent and the following files within it:
